@@ -1,0 +1,63 @@
+/*==== Base Styles====*/
+
+* {
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+h1 {
+	font-size: 1.7em;
+}
+h2 {
+	font-size: 1.5em;
+}
+hr {
+	max-width: 50%;
+	margin-right: auto;
+	margin-left: auto;
+}
+a {
+	color: #333;
+}
+a:hover, a:focus, a:visited {
+	color: #333;
+	text-decoration: none;
+}
+#body {
+	background-color: #FAFAF4;
+	font-size: 16px;
+}
+#beef {
+	padding: 0px;
+}
+#chicken {
+	padding: 0px;
+
+}
+#sushi {
+	padding: 0px;
+}
+#footer {
+	padding: 0px 0px 15px 15px;
+}
+.a {
+	color: #FAFAF4;
+}
+.nav {
+	background-color: #000;
+	opacity: .7;
+	border-radius: 0;
+}
+.top {
+	padding: 0px 0px 0px 15px;
+}
+.top-brand, .navbar-brand{
+	color: #fff;
+	opacity: 1;
+	padding: 0px 0px 0px 15px;
+	margin: 0px 0px 15px;
+}
+.navbar-toggle {
+	margin: 15px 15px 0px;
+}
+
